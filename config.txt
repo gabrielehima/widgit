@@ -1,1 +1,1 @@
-Tracking chnages with git remote
+Tracking changes with git remote.
